@@ -1,7 +1,7 @@
 # Statistika Regresi Menggunakan SPSS
 
-Mata Kuliah statistika regresi adalah ilmu cabang statistika yang mempelajari 
+Mata Kuliah statistika regresi adalah ilmu cabang statistika yang bertujuan melakukan analisis hubungan antara satu atau lebih variabel independen dan satu variabel dependen dengan tujuan untuk memodelkan hubungan ini dan memprediksi nilai variabel dependen berdasarkan nilai-nilai variabel independen.
 
-Statistika regresi adalah cabang dari statistika yang berkaitan dengan analisis hubungan antara satu atau lebih variabel independen (dikenal juga sebagai variabel prediktor atau variabel eksplanatori) dan satu variabel dependen (dikenal juga sebagai variabel respons atau variabel terikat). Tujuan statistika regresi adalah untuk memodelkan hubungan ini dan memprediksi nilai variabel dependen berdasarkan nilai-nilai variabel independen.
+SPSS (Statistical Package for the Social Sciences) adalah salah satu software yang digunakan untuk menganalisis data khususnya dalam melakukan proses statistika karena menyediakan berbagai fungsi statistik.
 
-Analisis regresi digunakan untuk memahami bagaimana perubahan dalam satu variabel (variabel independen) berkaitan dengan perubahan dalam variabel lain (variabel dependen) dan untuk memprediksi nilai variabel dependen berdasarkan nilai-nilai variabel independen yang diketahui.
+Dalam respiratory ini, terdiri 4 laporan tutorial penggunaan SPSS untuk melakukan regresi linear sederhana, regresi linier berganda, regresi varian Dummy, dan penanganan pelanggaran asumsi.
